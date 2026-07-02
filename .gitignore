@@ -1,5 +1,10 @@
 # Compiled simulation executable
 and
-
+or
+not
+nand
+nor
+xor
+xnor
 # Waveform files
 *.vcd
